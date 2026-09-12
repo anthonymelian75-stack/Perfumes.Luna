@@ -75,3 +75,17 @@ h1 {
  
 }
 
+.contenedor-SandraM {
+        font-family: "Dancing Script", cursive;
+        font-size: 70px;
+        margin-top: 10px;
+    }
+
+    nav h1 {
+    background-color: #333;
+    padding: 2px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
