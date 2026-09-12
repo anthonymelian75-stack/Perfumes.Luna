@@ -6,7 +6,7 @@
     }
 
     nav {
-        background-color: #333;
+        background-color: #070738;
         padding: 15px;
         text-align: center;
     }
@@ -17,6 +17,7 @@
         text-decoration: none;
         margin: 25px;
         font-weight: 600;
+        font-size: 20px;
     }
 
 
@@ -48,7 +49,7 @@ ul {
     
     font-size: 30px;
     margin: 20px 0 0 0;
-    border: 2px solid rgba(206, 150, 150, 0.803);
+    border: 2px solid #050240cd;
     padding: 25px;
     border-radius: 10px;
     text-align: left;
@@ -62,10 +63,11 @@ h2 {
 
     width: 100%;
     padding: 20px;
-    background-color: goldenrod;
+    background-color: #070738;
     border-radius: 15px;
     text-align: center;
-    box-shadow: 0 4px 2px rgba(0,0,0,0.15);
+    box-shadow: 0 4px 2px rgba(238, 235, 235, 0.15);
+    color: white;
 }
 
 h1 {
@@ -82,11 +84,11 @@ h1 {
     }
 
     nav h1 {
-        background-color: #333;
+        background-color: #070738;
         padding: 8px;
         font-size: 50px;
         text-align: center;
-        color: goldenrod;
+        color: white;
         text-decoration: none;
         margin: 0px;
     }
